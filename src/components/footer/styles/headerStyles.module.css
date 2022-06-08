@@ -1,0 +1,110 @@
+.header {
+  max-width: 1240px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px 10px;
+}
+
+.header__left {
+  width: 40%;
+}
+
+.header__menu {
+  border-bottom: 1px solid white;
+  padding: 25px 0 25px 0;
+}
+
+.header__link {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 20px;
+  font-weight: 900;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.header__tel {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  font-style: normal;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.header__adress {
+  padding-top: 15px;
+  line-height: 30px;
+  font-style: normal;
+}
+
+.header__mapLink {
+  text-decoration: none;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.header__logo {
+  width: 150px;
+  cursor: pointer;
+}
+
+.header__right {
+  width: 40%;
+}
+
+.header__navList {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+  border-bottom: 1px solid white;
+  padding: 25px 0 25px 0;
+}
+
+.header__navListItem {
+  margin-right: 0;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.header__workTime {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  text-align: end;
+  padding-top: 15px;
+  line-height: 30px;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.header__underline {
+  position: relative;
+}
+
+.header__underline::after {
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0;
+  bottom: -3px;
+  width: 0;
+  height: 2px;
+  background-color: black;
+  -webkit-transition: width 0.5s;
+  transition: width 0.5s;
+}
+
+.header__underline:hover:after {
+  content: "";
+  width: 100%;
+  display: block;
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  height: 2px;
+  background-color: white;
+  -webkit-transition: width 0.5s;
+  transition: width 0.5s;
+}
+/*# sourceMappingURL=headerStyles.module.css.map */

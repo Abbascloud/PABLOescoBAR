@@ -1,0 +1,51 @@
+.ourTeam {
+  width: 100%;
+  margin: 0 auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ourTeam__header {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 4px 4px 4px black;
+  text-align: center;
+  font-size: 100px;
+  margin-bottom: 100px;
+}
+
+.ourTeam__slider {
+  width: 50%;
+  padding-top: 80px;
+}
+
+.ourTeam__text {
+  width: 50%;
+  line-height: 30px;
+  font-weight: 800;
+  font-size: large;
+}
+
+.ourTeam__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.ourTeam__title {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 1px 1px 1px black;
+  margin-bottom: 40px;
+}
+
+.ourTeam__content {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 1px 1px 1px black;
+}
+/*# sourceMappingURL=ourTeanStyles.module.css.map */

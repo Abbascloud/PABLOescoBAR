@@ -1,0 +1,19 @@
+.carusel {
+  width: 1240px;
+  padding: 40px 100px;
+  border-top-left-radius: 40px;
+}
+
+.carusel__imgWrapper {
+  border-top-left-radius: 40px;
+}
+
+.carusel__img {
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+}
+
+.teamSlider {
+  border-radius: 100px;
+}
+/*# sourceMappingURL=TeamSliderStyles.module.css.map */

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,QAAQ,CAAA;EACJ,SAAS,ECJD,MAAM;CDKjB",
+    "sources": [
+        "landingStyles.module.scss",
+        "../../../styles/__variables.scss"
+    ],
+    "names": [],
+    "file": "landingStyles.module.css"
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,QAAQ,CAAA;EACJ,KAAK,ECHG,MAAM;EDId,OAAO,EAAE,UAAU;EACnB,sBAAsB,EAAE,IAAI;CAC/B;;AACD,AAAA,oBAAoB,CAAA;EAChB,sBAAsB,EAAE,IAAI;CAC/B;;AACD,AAAA,aAAa,CAAA;EACT,sBAAsB,EAAE,KAAK;EAC7B,uBAAuB,EAAE,KAAK;CACjC;;AACD,AAAA,WAAW,CAAA;EACP,aAAa,EAAE,KAAK;CACvB",
+    "sources": [
+        "TeamSliderStyles.module.scss",
+        "../../../styles/__variables.scss"
+    ],
+    "names": [],
+    "file": "TeamSliderStyles.module.css"
+}

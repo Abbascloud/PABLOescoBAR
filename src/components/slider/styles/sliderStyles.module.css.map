@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,QAAQ,CAAA;EACJ,KAAK,ECHG,MAAM;EDId,OAAO,EAAE,UAAU;EACnB,sBAAsB,EAAE,IAAI;CAC/B;;AACD,AAAA,oBAAoB,CAAA;EAChB,sBAAsB,EAAE,IAAI;CAC/B;;AACD,AAAA,aAAa,CAAA;EACT,sBAAsB,EAAE,KAAK;EAC7B,uBAAuB,EAAE,KAAK;CACjC",
+    "sources": [
+        "sliderStyles.module.scss",
+        "../../../styles/__variables.scss"
+    ],
+    "names": [],
+    "file": "sliderStyles.module.css"
+}
